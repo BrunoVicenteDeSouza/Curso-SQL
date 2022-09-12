@@ -240,3 +240,5 @@ DELETE FROM clientes WHERE id = 4
 DROP TABLE pccompleto;
 DROP TABLE monitores;
 DROP TABLE clientes;
+
+--------------------------------------------------------
